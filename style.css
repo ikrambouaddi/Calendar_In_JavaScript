@@ -18,4 +18,6 @@ body{
 }
 
 .container p{
-    font-size: 
+    font-size: 1.5rem;
+    font-weight: 500;
+}
