@@ -11,3 +11,6 @@ body{
     min-height: 100vh;
     background-color: rgb(172, 83, 199);
 }
+.container{
+    width: 445px;
+    background: #fff;
