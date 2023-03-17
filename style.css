@@ -27,3 +27,8 @@ body{
     margin: 0 1px;
     color: #878787;
     cursor: pointer;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 38px;
+    
+}
