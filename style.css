@@ -40,3 +40,5 @@ body{
     margin-left: -10px;
 
 }
+.container header{
+    display: flex;
