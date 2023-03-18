@@ -46,3 +46,6 @@ body{
     justify-content: space-between;
     padding: 25px 30px 10px;
 }
+.calendar {
+    padding: 20px;
+}
