@@ -49,3 +49,6 @@ body{
 .calendar {
     padding: 20px;
 }
+.calendar ul{
+    display: flex;
+    list-style: none;
