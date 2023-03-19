@@ -57,3 +57,5 @@ body{
 }
 .calendar ul li{
     position: relative;
+    width: calc(100% / 7);
+}
