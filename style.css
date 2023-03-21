@@ -63,3 +63,7 @@ body{
 .calendar .days{
     margin-bottom: 20px;
 }
+
+.calendar .weeks li{
+    font-weight: 500;
+}
