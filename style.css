@@ -67,3 +67,7 @@ body{
 .calendar .weeks li{
     font-weight: 500;
 }
+
+.calendar .days li{
+    z-index: 1;
+    cursor: pointer;
