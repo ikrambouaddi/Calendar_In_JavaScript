@@ -59,3 +59,7 @@ body{
     position: relative;
     width: calc(100% / 7);
 }
+
+.calendar .days{
+    margin-bottom: 20px;
+}
