@@ -79,3 +79,5 @@ body{
     .days li.active{
         color: #fff;
         }
+        .calendar .days li::before{
+            content: "";
