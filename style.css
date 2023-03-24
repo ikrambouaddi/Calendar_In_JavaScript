@@ -76,4 +76,6 @@ body{
 .days li.inactive{
     color: #aaa;
     }
-    
+    .days li.active{
+        color: #fff;
+        }
