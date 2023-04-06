@@ -5,3 +5,4 @@ prevIconsNext = document.querySelectorAll('.icons span');
 
 let date = new Date(),
 currYear = date.getFullYear(),
+curMouth = date.getMonth();
