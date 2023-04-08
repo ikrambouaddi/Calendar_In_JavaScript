@@ -10,3 +10,6 @@ curMouth = date.getMonth();
 console.log(date)
 const mouth = ['january', 'February','march','April','May','June','July',
 'August', 'Semptember','October','November','December']
+
+
+const renderCalender = () =>{ 
