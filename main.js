@@ -13,6 +13,6 @@ const mouth = ['january', 'February','march','April','May','June','July',
 
 
 const renderCalender = () =>{ 
-
+    console.log(curMouth)
     
 }
