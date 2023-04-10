@@ -15,5 +15,6 @@ const mouth = ['january', 'February','march','April','May','June','July',
 const renderCalender = () =>{ 
     console.log(curMouth)
     let firstDayOfMouth = new Date(currYear ,curMouth, 1).getDay(),
+    lastDateOfMouth = new Date(currYear ,curMouth + 1 , 0).getDate(),
 
 }
