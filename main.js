@@ -19,6 +19,7 @@ const renderCalender = () =>{
     lastDay= new Date(currYear ,curMouth,lastDateOfMouth).getDay(),
     lastDateOfLastMouth = new Date(currYear ,curMouth, 0).getDate();
 
+    console.log('good1',firstDayOfMouth)
 
 
 }
