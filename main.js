@@ -23,5 +23,8 @@ const renderCalender = () =>{
 
     let newDate = '';
         for(let i= firstDayOfMouth; i>0 ;i--){
+                 newDate += `<li class="inactive">${lastDateOfLastMouth - i +1}</li>`;
+    }
+
 
 }
