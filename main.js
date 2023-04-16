@@ -21,5 +21,6 @@ const renderCalender = () =>{
 
     console.log('good1',firstDayOfMouth)
 
+    let newDate = '';
 
 }
