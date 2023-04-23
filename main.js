@@ -34,7 +34,8 @@ const renderCalender = () =>{
     }
     for (let i =lastDay; i<6 ;i++){
 
-    
+        newDate += `<li class="inactive">${i - lastDay +1}</li> `
+
 
     }
 }
