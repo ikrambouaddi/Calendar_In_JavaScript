@@ -27,7 +27,8 @@ const renderCalender = () =>{
         newDate += `<li class="inactive">${lastDateOfLastMouth - i +1}</li>`;
     }
     for (let i =1;i<=lastDateOfMouth;i++){
-    
+        let actilaDay = i === date.getDate() && curMouth === new Date().getMonth()
+
     }
 
 }
