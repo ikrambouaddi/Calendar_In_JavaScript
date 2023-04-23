@@ -29,6 +29,7 @@ const renderCalender = () =>{
     for (let i =1;i<=lastDateOfMouth;i++){
         let actilaDay = i === date.getDate() && curMouth === new Date().getMonth()
         && currYear === new Date().getFullYear() ? "active" : "";
+        newDate += `<li class ="${actilaDay}"> ${i} </li> `
 
     }
 
