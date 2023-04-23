@@ -32,5 +32,7 @@ const renderCalender = () =>{
         newDate += `<li class ="${actilaDay}"> ${i} </li> `
 
     }
+    for (let i =lastDay; i<6 ;i++){
+        
 
 }
