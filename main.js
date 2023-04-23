@@ -33,6 +33,8 @@ const renderCalender = () =>{
 
     }
     for (let i =lastDay; i<6 ;i++){
-        
 
+    
+
+    }
 }
